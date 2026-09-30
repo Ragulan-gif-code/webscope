@@ -1,7 +1,7 @@
 # WebScope Inspector
 
-Analyze the structure, stack, and security signals of a public website.
+This repository provides a lightweight static entry page that redirects visitors to the live app.
 
 **Live app:** https://webscope-x22ujtz2.manus.space/
 
-This repository currently contains a link to the deployed app. It does not contain the app's source code.
+The app's source code is not included here; `index.html` redirects to the existing Manus-hosted deployment.
